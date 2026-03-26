@@ -32,21 +32,3 @@ The project utilizes the **California Housing Dataset**.
 7.  **Performance Benchmarking**: Comparing results using **RMSE** and **R2 Score**.
 8.  **Visual Validation**: Generating scatter plots to compare Actual vs. Predicted values.
 
-## Deliverables
-* **Jupyter Notebook**: `AI_ML_Task2_Model_Comparison.ipynb`.
-* **Comparison Table**: Structured performance metrics for all trained models.
-* **Methodology Report**: A 1-2 page PDF explaining results and conclusions.
-
-## How to Run
-1.  **Clone the repository**:
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  **Install requirements**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the analysis**:
-    ```bash
-    python main.py
-    ```
